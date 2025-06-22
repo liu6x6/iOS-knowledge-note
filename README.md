@@ -27,4 +27,4 @@ mdbook serve
 ***
 
 ## content
-  * [SuMMARY](./src/SUMMARY.MD)
+  * [SUMMARY](./src/SUMMARY.MD)

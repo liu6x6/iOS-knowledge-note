@@ -7,8 +7,17 @@
     * [iOS17](./iOS/iOS17.md)
     * [RemoteXPC](./iOS/RemoteXPC.md)
 
+-----
+- [USBMUXD](./usbmuxd/readMe.md)
+    * [USBMUXD Protocol](./usbmuxd/Protocol.md)
+    * [Message Types](./usbmuxd/Message-Types.md)
+    * [Sniffing the Traffic](./usbmuxd/Sniffing-the-Traffic.md)
+    * [DTracing WDARunner](./usbmuxd/DTracing-WDARunner.md)
+    * [Lockdown Connection Protocol](./usbmuxd/The-Lockdown-Protocol.md)
+    * [The iOS13 Problem](./usbmuxd/The-iOS13-Problem.md)
+    * [Lockdown & dtx & runtest](./usbmuxd/lockdown-&-dtx-message-&-runtest.md)
 
----
+-----
 - [Tips and Tricks](./Tips-and-Tricks/readMe.md)
     * [Better iOS Device Logs](./Tips-and-Tricks/Better-iOS-Device-Logs.md)
     * [macOS Catalina Code Signing](./Tips-and-Tricks/macOS-Catalina-Code-Signing.md)
