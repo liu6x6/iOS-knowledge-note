@@ -15,3 +15,9 @@
     * [windows path too long](./Tips-and-Tricks/Windows-Path-too-long.md)
     * [Mac codesign](./Tips-and-Tricks/Mac-codesign.md)
     * [windows uft8](./Tips-and-Tricks/windows-set-uft8-as-default.md)
+
+------
+  * [Java](./java/readMe.md)
+    * [Thread Monitoring](./java/Thread-Monitoring.md)
+    * [multiple java JDK](./java/add-multiple-java-on-Mac-and-windows.md)
+    * [import cert](./java/java-import-cert-for-dev-play.md)

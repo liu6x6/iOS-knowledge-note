@@ -1,6 +1,7 @@
 ## Show byte[] as hex
-in debug view, the IDE will show the byte and byte[] as decimal
+in IDRA debug view, the IDE will show the byte and byte[] as decimal.
 
+but sometimes we need see the hex for variable
 
 ## for primitives
 * goto Settings -> Build,Executio,Deployment -> Debugger -> Data Views -> Java
