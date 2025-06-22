@@ -1,0 +1,20 @@
+[book]
+authors = ["xiao-long"]
+language = "en"
+multilingual = false
+src = "src"
+title = "My iOS knowledge notes"
+
+[output.html]
+additional-css = ["theme/custom.css"]
+
+
+
+[output.pdf]
+enable = true
+
+[output.pdf.docx]
+page_size = "A4"
+margin = "20mm"
+header = "My Custom Header"
+footer = "Page {page}"
